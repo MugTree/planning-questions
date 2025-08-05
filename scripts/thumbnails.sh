@@ -40,10 +40,10 @@
 # dirs=("bolt_classic" "bolt_slim" "bolt_thin" "sbolt_thin" "wild")
 dirs=("all")
 src="/Users/me/Developer/go-projects/planning.site/raw_images/"
-dst="/Users/me/Developer/go-projects/planning.site/planning-questions/public/img/"
+dst="/Users/me/Developer/go-projects/planning.site/public/img/"
 i=0
 tn_size=300
-size=640
+size=800
 
 for dir in "${dirs[@]}"; do
 
