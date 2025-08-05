@@ -43,7 +43,7 @@ src="/Users/me/Developer/go-projects/planning.site/raw_images/"
 dst="/Users/me/Developer/go-projects/planning.site/public/img/"
 i=0
 tn_size=300
-size=800
+size=1024
 
 for dir in "${dirs[@]}"; do
 
